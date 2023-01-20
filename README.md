@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   
 <!—  stats  —>
 <!— ![capo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark) —>
-[![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
+[![capo's GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
   
 
   
