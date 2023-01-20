@@ -84,14 +84,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&amp;logo=IntelliJIDEA&amp;logoColor=white"/>
 </p>
-  
-<!-- #### 💪 Studying  
-<p>
-  <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
-  
-</p>  
-  </br></br> -->
+</br></br>
   
 <!—  stats  —>
 <!— ![capo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark) —>
