@@ -3,7 +3,7 @@
 <p><h1>Welcome to EveryOne👋</h1></p>
 </div>
 <!--
-**swings134man/swings134man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caporatnag/caporatnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<!-- 블로그  -->
-<a href="https://lucas-owner.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/Tech_Blog-ff69b4?style=flat-square&logo=Tistory&logoColor=000000"/>
-</a>
 <!-- 이메일 -->
-<a href="mailto:swings134@gmail.com" target="_blank"><img src="https://img.shields.io/badge/swings134@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- introduce -->
@@ -89,17 +85,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&amp;logo=IntelliJIDEA&amp;logoColor=white"/>
 </p>
   
-#### 💪 Studying  
+<!-- #### 💪 Studying  
 <p>
   <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&amp;logo=SpringBatch&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&amp;logo=ApacheKafka&amp;logoColor=white"/>
   
 </p>  
-  </br></br>
+  </br></br> -->
   
 <!—  stats  —>
-<!— ![lucas's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark) —>
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swings134man&show_icons=true&theme=github_dark)]()
+<!— ![capo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark) —>
+[![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
   
 
   
