@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 
 <!-- introduce -->
 <p>
-  🎃Hi! there! I'm aiming for a <b>Full Stack Developer<b/> skilled in API, WEB, and APP.🚀<br/>
+<!--   🎃Hi! there! I'm aiming for a <b>Full Stack Developer<b/> skilled in API, WEB, and APP.🚀<br/>
   My Main skill is <b>Java!!</b> Using <b>Spring & SpringBoot</b> Framework. <br/>
   I'm interested in Server-side Programming.🙈<br/>
   🔥<b>My goal is develop my skills without rushing.<b/>🔥 <br/><br/>  
+  <br/> -->
+  I'm a developer who constantly tries and studies 🔥<br/>
+  I want to be a full stack web developer 🔥<br/>
+  Using Spring & SpringBoot and JAVA 🔥<br/>
+
 </p>
  
 <!--  skill  -->
@@ -42,7 +47,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/jQuery-0796AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/> -->
 </p>
 
@@ -61,9 +65,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySQL&logoColor=white"/> <br/>
 </p>  
 
 #### Clouds   
