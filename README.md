@@ -28,15 +28,15 @@ Here are some ideas to get you started:
   I'm interested in Server-side Programming.🙈<br/>
   🔥<b>My goal is develop my skills without rushing.<b/>🔥 <br/><br/>  
   <br/> -->
-  I'm a developer who constantly tries and studies 🔥<br/>
-  I want to be a full stack web developer 🔥<br/>
-  Using Spring & SpringBoot and JAVA 🔥<br/>
-
+  I'm a developer who always complements and studies. 🔥<br/>
+  I want to be a <b>full stack web developer</b> 🔥<br/>
+  I'm still not good enough, but I'm using <b>spring, spring boot, and Java</b> 🔥<br/>
 </p>
- 
+
+<br/>
 <!--  skill  -->
 <div align="center">
-<p><h2>🔥Tech Stack🔥</h2></p>
+<p><h2>Tech Stack</h2></p>
 </div>
   
 #### Languages & FrameWorks
