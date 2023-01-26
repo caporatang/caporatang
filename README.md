@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   I'm interested in Server-side Programming.🙈<br/>
   🔥<b>My goal is develop my skills without rushing.<b/>🔥 <br/><br/>  
   <br/> -->
-  I'm a developer who always complements and studies. 🔥<br/>
+  I'm a developer who always complements and studies 🔥<br/>
   I want to be a <b>full stack web developer</b> 🔥<br/>
   I'm still not good enough, but I'm using <b>spring, spring boot, and Java</b> 🔥<br/>
 </p>
