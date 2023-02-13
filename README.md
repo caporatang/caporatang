@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <p>
 <!-- 이메일 -->
-<a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- introduce -->
