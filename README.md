@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 [![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
   
-![snake gif](https://github.com/caporatang/caporatang/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/caporatang/caporatang/blob/output/github-contribution-grid-snake.svg) -->
   
 
   
