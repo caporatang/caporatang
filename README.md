@@ -1,6 +1,5 @@
 <!-- # Welcome to EveryOne👋 -->
 <div align="center">
-<p><h1>Welcome to EveryOne👋</h1></p>
 </div>
 <!--
 **caporatnag/caporatnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,21 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<!-- 이메일 -->
+<!--<p>
+ 이메일 
 <a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</p>-->
 
 <!-- introduce -->
 <p>
-<!--   🎃Hi! there! I'm aiming for a <b>Full Stack Developer<b/> skilled in API, WEB, and APP.🚀<br/>
-  My Main skill is <b>Java!!</b> Using <b>Spring & SpringBoot</b> Framework. <br/>
-  I'm interested in Server-side Programming.🙈<br/>
-  🔥<b>My goal is develop my skills without rushing.<b/>🔥 <br/><br/>  
-  <br/> -->
-  I'm a developer who always complements and studies 🔥<br/>
-  I want to be a <b>full stack web developer</b> 🔥<br/>
-  I'm still not good enough, but I'm using <b>spring, spring boot, and Java</b> 🔥<br/>
 </p>
 
 <br/>
@@ -86,6 +77,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&amp;logo=IntelliJIDEA&amp;logoColor=white"/>
+</p>
+
+#### Email
+<p>
+  <a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 </br></br>
   
