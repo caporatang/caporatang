@@ -1,5 +1,7 @@
 <!-- # Welcome to EveryOne👋 -->
-<div align="center">
+ <div>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=TAEIL&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Backend%20Developer&descAlignY=43&descAlign=60)
 </div>
 <!--
 **caporatnag/caporatnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,9 +87,9 @@ Here are some ideas to get you started:
 </p>
 </br></br>
   
-
 [![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
-  
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4)
 <!-- ![snake gif](https://github.com/caporatang/caporatang/blob/output/github-contribution-grid-snake.svg) -->
   
 
