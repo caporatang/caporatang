@@ -20,18 +20,7 @@ Here are some ideas to get you started:
 <!--<p>
  이메일 
 <a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>-->
-
-<!-- introduce -->
-<p>
-</p>
-
-<br/>
-<!--  skill  -->
-<div align="center">
-<p><h2>Tech Stack</h2></p>
-</div>
-  
+</p>-->  
 #### Languages & FrameWorks
 <p>
 <!--   <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white"/> -->
