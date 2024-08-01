@@ -1,55 +1,40 @@
 <!-- # Welcome to EveryOne👋 -->
- <div>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=TAEIL&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Backend%20Developer&descAlignY=43&descAlign=60)
-</div>
 <!--
-**caporatnag/caporatnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=TAEIL&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Backend%20Developer&descAlignY=43&descAlign=60)
+ </div>
 -->
-<!--<p>
- 이메일 
-<a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>-->  
+
+<!--
 #### Languages & FrameWorks
 <p>
-<!--   <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"/>-->
-   <!--<img src="https://img.shields.io/badge/jQuery-0796AD?style=flat-square&logo=jQuery&logoColor=white"/> -->
-  <!--<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/> -->
-  <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <br/> -->
 </p>
+-->
 
-<!--  framework  -->
+<!--
 #### DB  
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySQL&logoColor=white"/> <br/>
 </p>  
+-->
 
+<!--
 #### Clouds   
 <p>
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>
 </P>  
+-->
 
+
+<!--
 #### Tools & etc
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white"/>
@@ -64,15 +49,20 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
+-->
+
+<!--
 #### Email
 <p>
   <a href="mailto:caporatang@naver.com" target="_blank"><img src="https://img.shields.io/badge/caporatang@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 </br></br>
-  
+-->
+
 [![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4)
+
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4) -->
 <!-- ![snake gif](https://github.com/caporatang/caporatang/blob/output/github-contribution-grid-snake.svg) -->
   
 
