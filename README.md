@@ -59,7 +59,7 @@
 </br></br>
 -->
 
-[![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()
+<!--[![capo GitHub stats](https://github-readme-stats.vercel.app/api?username=caporatang&show_icons=true&theme=github_dark)]()-->
 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4) -->
